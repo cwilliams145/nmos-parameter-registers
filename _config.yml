@@ -1,5 +1,15 @@
 # Don't change this
 theme: jekyll-theme-primer
 
+# AMWA ID
+amwa_id: NMOS-PARAMETER-REGISTERS
+
 # GitHub project
 baseurl: /nmos-parameter-registers
+
+# Which release or branch appears in header links and on the home page
+default_tree: branches/master # or e.g. tags/v1.1
+
+# Regex patterns of tags (releases) and branches to show
+show_tags:
+show_branches: master

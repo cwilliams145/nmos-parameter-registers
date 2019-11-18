@@ -2,7 +2,7 @@
 
 - **Name:**  urn:x-nmos:tag:grouphint/v1.0
   - **Description:** Group description tag that can be used in a JSON description for an NMOS resource v1.0.
-  - **Proponent:** [AMWA](https://github.com/AMWA-TV/)
+  - **Proponent:** [AMWA](https://amwa-tv.github.io/)
 
 This document describes an application of the AMWA IS-04 “tags” structures to enable control systems to identify relationships between NMOS resources listed in a registry or node.
 
