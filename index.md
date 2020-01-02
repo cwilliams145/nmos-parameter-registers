@@ -2,7 +2,7 @@
 
 # {{ site.github.project_tagline }}
 
-[![Build Status](https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg)](https://travis-ci.com/AMWA-TV/nmos-parameter-registers)
+[![Build Status](https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg?branch=master)](https://travis-ci.com/AMWA-TV/nmos-parameter-registers)
 
 
 
