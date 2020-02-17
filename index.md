@@ -2,8 +2,9 @@
 
 # {{ site.github.project_tagline }}
 
-[![Build Status](https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg?branch=master)](https://travis-ci.com/AMWA-TV/nmos-parameter-registers)
-
+| Repository | Default Branch | Lint (default) | Render (all) |
+| --- | --- | --- | --- |
+| [nmos-parameter-registers](https://github.com/AMWA-TV/nmos-parameter-registers) | master | <a href="https://travis-ci.com/AMWA-TV/nmos-parameter-registers?branch=master"><img src="https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg?branch=master" width="100"/></a> | <a href="https://travis-ci.com/AMWA-TV/nmos-parameter-registers?branch=gh-pages"><img src="https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg?branch=gh-pages" width="100"/></a> |
 
 
 ---
