@@ -7,6 +7,7 @@
     - [Transports](branches/master/transports/)
     - [Device Types](branches/master/device-types/)
     - [Tags](branches/master/tags/)
+    - [Tags](branches/capabilities/tags/)
 
 - Defines [procedures](branches/master/common/) for updating these
 

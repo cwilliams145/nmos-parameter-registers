@@ -12,4 +12,4 @@ default_tree: branches/master # or e.g. tags/v1.1
 
 # Regex patterns of tags (releases) and branches to show
 show_tags:
-show_branches: master
+show_branches: master|capabilities
