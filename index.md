@@ -4,7 +4,7 @@
 
 | Repository | Default Branch | Lint (default) | Render (all) |
 | --- | --- | --- | --- |
-| [nmos-parameter-registers](https://github.com/AMWA-TV/nmos-parameter-registers) | master | <a href="https://travis-ci.com/AMWA-TV/nmos-parameter-registers?branch=master"><img src="https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg?branch=master" width="100"/></a> | <a href="https://travis-ci.com/AMWA-TV/nmos-parameter-registers?branch=gh-pages"><img src="https://travis-ci.com/AMWA-TV/nmos-parameter-registers.svg?branch=gh-pages" width="100"/></a> |
+| [nmos-parameter-registers](https://github.com/AMWA-TV/nmos-parameter-registers) | master | [![Lint Status](https://github.com/AMWA-TV/nmos-parameter-registers/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-parameter-registers/actions?query=workflow%3ALint) | [![Render Status](https://github.com/AMWA-TV/nmos-parameter-registers/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-parameter-registers/actions?query=workflow%3ARender) |
 
 
 ---
